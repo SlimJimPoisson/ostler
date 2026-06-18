@@ -1,5 +1,7 @@
 # Ostler
 
+> The King's Horses could have put Humpty together if they had an *Ostler*.
+
 A coordination layer for human-directed AI work.
 
 Status: experimental.
